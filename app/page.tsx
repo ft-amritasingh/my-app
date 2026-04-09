@@ -23,7 +23,7 @@ export default function Home() {
           height={150}
           className="rounded-full"
         />
-        <h2 className="text-3xl font-bold mt-4">Hi, I'm Your Name 👋</h2>
+        <h2 className="text-3xl font-bold mt-4">Hi, I'm Amrita 👋</h2>
         <p className="mt-2 text-gray-600">
           A passionate developer interested in AI/ML and Web Development.
         </p>
