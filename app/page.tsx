@@ -70,7 +70,7 @@ export default function Home() {
       {/* Contact Section */}
       <section id="contact" className="p-10 bg-white text-center">
         <h2 className="text-2xl font-semibold mb-4">Contact</h2>
-        <p>Email: your@email.com</p>
+        <p>Email: Amrita@gmail.com</p>
         <p>LinkedIn: linkedin.com/in/yourprofile</p>
       </section>
 
